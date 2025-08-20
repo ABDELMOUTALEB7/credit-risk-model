@@ -33,22 +33,17 @@ The goal is to show a complete data science workflow from raw data to deployable
 
 ---
 
-## 📊 Results
+## Results
 - Logistic Regression → PR-AUC ≈ XX, F1 ≈ XX  
 - Random Forest → PR-AUC ≈ XX, F1 ≈ XX  
 - XGBoost → **Best model** with PR-AUC ≈ XX and F1 ≈ XX  
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 - Python (pandas, numpy, matplotlib, seaborn)  
 - scikit-learn  
 - imbalanced-learn  
 - XGBoost  
 - joblib  
 
----
-
-## 📌 How to Run
-1. Clone the repo  
-   ```bash
