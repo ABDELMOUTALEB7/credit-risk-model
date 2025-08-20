@@ -34,7 +34,7 @@ The goal is to show a complete data science workflow from raw data to deployable
 ---
 
 ## Results
-- XGBoost → **Best model** with PR-AUC ≈ XX and F1 ≈ XX  
+- XGBoost → **Best model** with PR-AUC = 0.8935 and F1 = 0.8145 
 
 ---
 
