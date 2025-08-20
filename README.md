@@ -34,8 +34,6 @@ The goal is to show a complete data science workflow from raw data to deployable
 ---
 
 ## Results
-- Logistic Regression → PR-AUC ≈ XX, F1 ≈ XX  
-- Random Forest → PR-AUC ≈ XX, F1 ≈ XX  
 - XGBoost → **Best model** with PR-AUC ≈ XX and F1 ≈ XX  
 
 ---
