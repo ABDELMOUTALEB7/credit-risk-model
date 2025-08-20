@@ -1,9 +1,7 @@
 # Credit Risk Prediction (ML Pipeline)
 
-## 📌 Project Overview
-This project builds an **end-to-end machine learning pipeline** to predict the likelihood of loan default.  
-The goal is to show a complete data science workflow from raw data to deployable model with a focus on **imbalanced learning** and **model evaluation**.
-
+##  Project Overview
+I chose to work on credit risk prediction because it’s a real-world problem that affects both banks and individuals, predicting whether someone will default on a loan is a key challenge in finance. In this project, I built an end-to-end machine learning pipeline that goes from raw data all the way to a deployable model. Along the way, I focused on handling imbalanced data, applying different models, and carefully evaluating performance to make the predictions more reliable.
 ---
 
 ##  Steps in the Project
